@@ -17,7 +17,6 @@ const App: React.FC = () => {
   const fetchData = async () => {
     setState(prev => ({ ...prev, loading: true, error: null }));
     try {
-      // Relative path works on GH Pages with base: './'
       const response = await fetch('./data/index.json');
       if (!response.ok) {
         throw new Error('No se pudo cargar el catálogo de archivos.');
