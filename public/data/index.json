@@ -1,0 +1,43 @@
+
+[
+  {
+    "id": "DNI-ESP",
+    "title": "DNI - España (Jon Peciña Iturbe)",
+    "filename": "DNI.pdf",
+    "type": "pdf",
+    "tags": ["Identificación", "España", "Personal"],
+    "description": "Documento Nacional de Identidad de España. ID: 16594492S. Válido hasta 2029."
+  },
+  {
+    "id": "CE-PERU",
+    "title": "Carné de Extranjería - Perú",
+    "filename": "Carne Extranjeria Peru.pdf",
+    "type": "pdf",
+    "tags": ["Identificación", "Perú", "Migraciones"],
+    "description": "Carné de extranjería emitido por la Superintendencia Nacional de Migraciones de Perú. Calidad migratoria: Trabajador."
+  },
+  {
+    "id": "DRIVE-ESP",
+    "title": "Permiso de Conducción - España",
+    "filename": "Permiso conducir.pdf",
+    "type": "pdf",
+    "tags": ["Conducción", "España", "Licencia"],
+    "description": "Permiso de conducir del Reino de España. Categorías AM y B autorizadas."
+  },
+  {
+    "id": "RNI-NL",
+    "title": "BSN number",
+    "filename": "BSN number.pdf",
+    "type": "pdf",
+    "tags": ["Países Bajos", "RNI", "Trámites"],
+    "description": "Inschrijving RNI (Registro de no residentes) emitido por el Ministerio de Asuntos Interiores y Relaciones del Reino. BSN: 292355348."
+  },
+  {
+    "id": "TAX-NL",
+    "title": "Certificado de Residencia Fiscal - Belastingdienst",
+    "filename": "Confirmacion Residencia Fiscal en Holanda.pdf",
+    "type": "pdf",
+    "tags": ["Países Bajos", "Impuestos", "Fiscal"],
+    "description": "Woonplaatsverklaring / Certificate of Residence emitido por la oficina de impuestos de Arnhem, Países Bajos."
+  }
+]

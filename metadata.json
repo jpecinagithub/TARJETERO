@@ -1,0 +1,5 @@
+{
+  "name": "LocalDoc Explorer PWA",
+  "description": "A high-performance PWA for exploring and viewing local PDFs and images, optimized for GitHub Pages and offline use.",
+  "requestFramePermissions": []
+}
