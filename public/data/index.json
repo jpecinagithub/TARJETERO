@@ -55,5 +55,29 @@
     "type": "pdf",
     "tags": ["Perú", "Renta", "Trámites"],
     "description": "Informe de renta surpexport 2025- Perú."
+  },
+    {
+    "id": "CER-PE",
+    "title": "Titulo Ingenieria Industrial - España",
+    "filename": "TituloIngenierioIndustrial.pdf",
+    "type": "pdf",
+    "tags": ["España", "Ingeniería", "Título"],
+    "description": "Título de ingeniería industrial emitido por la Universidad de Navarra."
+  },
+    {
+    "id": "CER-PE",
+    "title": "Titulo de Graduado Escolar - España",
+    "filename": "TituloGraduadoEscolar.pdf",
+    "type": "pdf",
+    "tags": ["España", "Grado", "Título"],
+    "description": "Título de graduado escolar."
+  },
+    {
+    "id": "CER-PE",
+    "title": "Titulo MBA Universidad Comillas - España",
+    "filename": "TituloMBA.pdf",
+    "type": "pdf",
+    "tags": ["España", "MBA", "Título"],
+    "description": "Título de MBA emitido por la Universidad Comillas."
   }
 ]
