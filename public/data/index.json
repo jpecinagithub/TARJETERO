@@ -39,5 +39,21 @@
     "type": "pdf",
     "tags": ["Países Bajos", "Impuestos", "Fiscal"],
     "description": "Woonplaatsverklaring / Certificate of Residence emitido por la oficina de impuestos de Arnhem, Países Bajos."
+  },
+  {
+    "id": "CER-ES",
+    "title": "Certificado de Nacimiento - España",
+    "filename": "Certificado de Nacimiento.pdf",
+    "type": "pdf",
+    "tags": ["Certificados", "España", "Tramites"],
+    "description": "Certificado de nacimiento emitido por el Registro Civil de España."
+  },
+  {
+    "id": "CER-PE",
+    "title": "Informe Renta SurExport 2025- Perú",
+    "filename": "Informe Renta SurExport 2025.pdf",
+    "type": "pdf",
+    "tags": ["Perú", "Renta", "Trámites"],
+    "description": "Informe de renta surpexport 2025- Perú."
   }
 ]
